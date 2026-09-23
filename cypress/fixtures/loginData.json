@@ -1,0 +1,13 @@
+{
+    "validUsername":"admin",
+    "invalidUsername":"wronguser",
+    "validPassword":"admin123",
+    "invalidPassword":"wrongpassword",
+    "specialUsername":"admin!@",
+    "specialPassword":"admin123!@",
+    "trailingUsername":" admin ",
+    "trailingPassword":" admin123 ",
+    "capitalizedUsername":"aDmin",
+    "capitalizedPassword":"aDmin123"
+}
+
